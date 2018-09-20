@@ -1,0 +1,6 @@
+# README
+
+## Mitarbeiter
+
++ Artur Galiev
+
